@@ -18,5 +18,5 @@ This interactive map of measurements can be opened with [Kepler.gl](https://kepl
 1. Follow the [link](https://kepler.gl/demo);
 2. Click "Add data" (if modal window not opened already);
 3. Select "Load Map using URL";
-4. Paste [this URL](https://raw.githubusercontent.com/tzoiker/psqi/init/results/map.json) of the raw map.json content file and click "Fetch".
+4. Paste [this URL](https://raw.githubusercontent.com/tzoiker/psqi/master/results/map.json) of the raw map.json content file and click "Fetch".
 Alternatively, one may download map.json file and upload it directly after the step 2.
